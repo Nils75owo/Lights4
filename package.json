@@ -1,0 +1,15 @@
+{
+  "name": "Lights4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc ./index.ts ./src/index.ts && electron ."
+  },
+  "keywords": [],
+  "author": "Nils75owo",
+  "license": "NONE",
+  "dependencies": {
+    "electron": "^14.0.1"
+  }
+}
